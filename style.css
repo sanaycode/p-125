@@ -1,0 +1,30 @@
+#tiitle{
+    background-color: rgb(255, 162, 0);
+    height:fit-content;
+    width:fit-content;
+    text-align: center;
+    align-items: center;
+    color:rgb(246, 246, 246);
+    border-radius: 25px;
+    box-shadow: 0 0 2.5px 2px rgb(255, 162, 0);
+}
+#tiitle:hover{
+    background-color: rgb(197, 125, 2);
+    color:rgb(246, 236, 246);
+    box-shadow: 0 0 2.5px 2px rgb(197, 125, 2);
+}
+#copyright_footer{
+    line-height: 3;
+    color:white;
+    background:gray;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    text-align: center;
+}
+canvas{
+    background-color:gray;
+    border:white 5px solid;
+    border-radius: 25px;;
+    box-shadow: 8px 8px 10px gray;
+}
